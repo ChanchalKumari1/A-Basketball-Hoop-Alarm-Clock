@@ -2,6 +2,9 @@
 
 ![ESP32 Basketball Hoop Alarm Clock LED Display](https://digitalmonk.biz/img/esp32-basketball-hoop-alarm-clock-led-display.webp)
 
+![Basketball Hoop Alarm Clock Black Backboard and Ring](https://digitalmonk.biz/img/basketball-hoop-alarm-clock-black-backboard-ring.webp)
+
+
 A client came to us with a simple brief: make an alarm clock you can't snooze. Their idea? A mini basketball hoop mounted above the bed. When the alarm fires, a ball drops, and the only way to silence it is to sink a shot. Sounds fun — until you try it at 6:45 AM.
 
 We took it from sketch to working prototype in about seven weeks. Here's what went into it.
