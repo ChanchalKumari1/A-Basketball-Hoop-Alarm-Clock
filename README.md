@@ -1,4 +1,4 @@
-# Case Study: Building a Basketball Hoop Alarm Clock
+=# Case Study: Building a Basketball Hoop Alarm Clock
 
 A client came to us with a simple brief: make an alarm clock you can't snooze. Their idea? A mini basketball hoop mounted above the bed. When the alarm fires, a ball drops, and the only way to silence it is to sink a shot. Sounds fun — until you try it at 6:45 AM.
 
@@ -70,4 +70,4 @@ The enclosure went through three 3D-printed revisions. The first cradle dropped 
 
 The prototype fires within one second of the set time, holds that accuracy across a two-week battery cycle, and registered a made shot on the first attempt in 47 of 50 test alarms. The three misses were all test throws, not hardware faults.
 
-If you're building a connected hardware product and need firmware, PCB design, and an app that all talk to each other, this is the kind of work we do. Teams often reach out to hire an IoT developer after their first prototype stalls at the "it works on a breadboard" stage — that's usually where the real engineering starts. We're happy to pick it up from there.
+If you're building a connected hardware product and need firmware, PCB design, and an app that all talk to each other, this is the kind of work we do. Teams often reach out to [hire IoT developer](https://digitalmonk.biz/hire-iot-developer/) after their first prototype stalls at the "it works on a breadboard" stage — that's usually where the real engineering starts. We're happy to pick it up from there.
