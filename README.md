@@ -2,8 +2,6 @@
 
 ![ESP32 Basketball Hoop Alarm Clock LED Display](https://digitalmonk.biz/img/esp32-basketball-hoop-alarm-clock-led-display.webp)
 
-![Basketball Hoop Alarm Clock Black Backboard and Ring](https://digitalmonk.biz/img/basketball-hoop-alarm-clock-black-backboard-ring.webp)
-
 
 A client came to us with a simple brief: make an alarm clock you can't snooze. Their idea? A mini basketball hoop mounted above the bed. When the alarm fires, a ball drops, and the only way to silence it is to sink a shot. Sounds fun — until you try it at 6:45 AM.
 
@@ -78,6 +76,9 @@ We built the companion app in React Native so one codebase covers iOS and Androi
 - The antenna keep-out zone on the ESP32 module is clear of copper and plastic, which kept BLE range solid at around 10 meters through a wall.
 - The enclosure went through three 3D-printed revisions. The first cradle dropped balls at odd angles. The second held them too tightly. The third uses a curved lip and a slight backward tilt, and the ball releases cleanly every time.
 - We printed in PETG for impact resistance — PLA cracked at the mount points after a few weeks of use.
+
+![Basketball Hoop Alarm Clock Black Backboard and Ring](https://digitalmonk.biz/img/basketball-hoop-alarm-clock-black-backboard-ring.webp)
+
 
 ## Where We Landed
 
